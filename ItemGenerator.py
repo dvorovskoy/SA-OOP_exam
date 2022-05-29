@@ -79,4 +79,3 @@ def generate_bricks():
             bricks.add(name)
             result.add(item)
     return result
-
